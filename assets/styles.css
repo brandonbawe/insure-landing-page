@@ -338,7 +338,7 @@ button.view-plans {
 /*=======================================
         Mobile Design
   =====================================*/
-  @media only screen and (max-width: 375px) {
+  @media only screen and (min-width: 375px) {
     * {
         margin: 0;
         padding: 0;
